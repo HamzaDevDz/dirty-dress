@@ -1,0 +1,29 @@
+.presentation{
+    width: 100vw;
+    height: 100vh;
+    background-color: #3f3232;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+}
+.presentation__img{
+    width: 500px;
+    position: relative;
+    transform: translateY(100px);
+}
+.presentation__img img{
+    width: 100%;
+}
+.presentation__data h2{
+    margin-top: 60px;
+    margin-bottom: 100px;
+}
+.presentation__data__btn{
+    padding: 10px 20px;
+    background-color: #423E6B;
+    outline: none;
+    border: none;
+}
+.presentation__data__btn:hover{
+
+}
